@@ -1,4 +1,4 @@
-# Base MVVM Android Project
+# Base MVVM Android Movie App
 
 Built using MVVM and repository pattern.
 
