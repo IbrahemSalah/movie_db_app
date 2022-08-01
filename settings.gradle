@@ -1,0 +1,3 @@
+rootProject.name = "Base Android App"
+include ':app'
+include ':localization'
